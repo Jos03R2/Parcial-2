@@ -1,0 +1,12 @@
+com\mycompany\covidstatsapp\service\ReportService.class
+com\mycompany\covidstatsapp\config\EntityManagerFactoryProvider.class
+com\mycompany\covidstatsapp\model\Report.class
+com\mycompany\covidstatsapp\repository\ProvinceRepository.class
+com\mycompany\covidstatsapp\service\ProvinceService.class
+com\mycompany\covidstatsapp\service\RegionService.class
+com\mycompany\covidstatsapp\model\Province.class
+com\mycompany\covidstatsapp\thread\DataCollectorThread.class
+com\mycompany\covidstatsapp\repository\RegionRepository.class
+com\mycompany\covidstatsapp\repository\ReportRepository.class
+com\mycompany\covidstatsapp\CovidStatsApp.class
+com\mycompany\covidstatsapp\model\Region.class
